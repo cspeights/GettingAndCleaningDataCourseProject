@@ -1,0 +1,71 @@
+Codebook
+
+
+Activity - The activity that the person was engaged in 
+subject - The identification number of the subject the data was collected from
+timeBodyAccMeanX - The mean over time of the body acceleration in the X direction
+timeBodyAccMeanY - The mean over time of the body acceleration in the Y direction
+timeBodyAccMeanZ - The mean over time of the body acceleration in the Z direction
+timeBodyAccStdX - The standard deviation over time of the body acceleration in the X direction
+timeBodyAccStdY - The standard deviation over time of the body acceleration in the Y direction
+timeBodyAccStdZ - The standard deviation over time of the body acceleration in the Z direction
+timeGravityAccMeanX - The mean over time of the gravity componant of the acceleration in the X direction
+timeGravityAccMeanY - The mean over time of the gravity componant of the acceleration in the Y direction
+timeGravityAccMeanZ - The mean over time of the gravity componant of the acceleration in the Z direction
+timeGravityAccStdX - The standard deviation over time of the gravity component of the acceleration in the X direction 
+timeGravityAccStdY - The standard deviation over time of the gravity component of the acceleration in the Y direction
+timeGravityAccStdZ - The standard deviation over time of the gravity component of the acceleration in the Z direction
+timeBodyAccJerkMeanX - The mean over time of the Jerk signal of the body acceleration in the X direction
+timeBodyAccJerkMeanY - The mean over time of the Jerk signal of the body acceleration in the Y direction
+timeBodyAccJerkMeanZ - The mean over time of the Jerk signal of the body acceleration in the Z direction
+timeBodyAccJerkStdX - The standard deviation over time of the Jerk signal of the body acceleration in the X direction
+timeBodyAccJerkStdY - The standard deviation over time of the Jerk signal of the body acceleration in the Y direction
+timeBodyAccJerkStdZ - The standard deviation over time of the Jerk signal of the body acceleration in the Z direction
+timeBodyGyroMeanX - The mean over time of the measure of the gyroscope measurement in the X direction
+timeBodyGyroMeanY - The mean over time of the measure of the gyroscope measurement in the Y direction
+timeBodyGyroMeanZ - The mean over time of the measure of the gyroscope measurement in the Z direction
+timeBodyGyroStdX - The standard deviation over time of the measure of the gyroscope measurement in the X direction
+timeBodyGyroStdY - The standard deviation over time of the measure of the gyroscope measurement in the Y direction
+timeBodyGyroStdZ - The standard deviation over time of the measure of the gyroscope measurement in the Z direction
+timeBodyGyroJerkMeanX - The mean over time of the measure of the gyroscope jerk measurement in the X direction
+timeBodyGyroJerkMeanY - The mean over time of the measure of the gyroscope jerk measurement in the Y direction
+timeBodyGyroJerkMeanZ - The mean over time of the measure of the gyroscope jerk measurement in the Z direction
+timeBodyGyroJerkStdX - The standard deviation over time of the measure of the gyroscope jerk measurement in the X direction
+timeBodyGyroJerkStdY - The standard deviation over time of the measure of the gyroscope jerk measurement in the Y direction
+timeBodyGyroJerkStdZ - The standard deviation over time of the measure of the gyroscope jerk measurement in the Z direction
+timeBodyAccMagMean - The mean of the magnitude of the body acceleration over time
+timeBodyAccMagStd - The standard deviation of the magnitude of the body acceleration over time 
+timeGravityAccMagMean - The mean of the magnitude of the gravitational acceleration over time
+timeGravityAccMagStd - The standard deviation of the magnitude of the gravitational acceleration over time
+timeBodyAccJerkMagMean - The mean over time of the magnitude of the jerk measurement of the body acceleration 
+timeBodyAccJerkMagStd - The standard deviation over time of the magnitude of the jerk measurement of the body acceleration
+timeBodyGyroMagMean - The mean over time of the magnitude of the gyroscope measurement
+timeBodyGyroMagStd - The standard deviation over time of the magnitude of the gyroscope measurement
+timeBodyGyroJerkMagMean - The mean over time of the magnitude of the measure of the gyroscope jerk
+timeBodyGyroJerkMagStd - The standard deviation over time of the magnitude of the measure of the gyroscope jerk
+freqBodyAccMeanX- The mean over frequency of the body acceleration in the X direction 
+freqBodyAccMeanY- The mean over frequency of the body acceleration in the Y direction
+freqBodyAccMeanZ- The mean over frequency of the body acceleration in the Z direction
+freqBodyAccStdX - The standard deviation over frequency of the body acceleration in the X direction
+freqBodyAccStdY - The standard deviation over frequency of the body acceleration in the Y direction
+freqBodyAccStdZ - The standard deviation over frequency of the body acceleration in the Z direction
+freqBodyAccJerkMeanX - The mean over frequency of the Jerk signal of the body acceleration in the X direction
+freqBodyAccJerkMeanY - The mean over frequency of the Jerk signal of the body acceleration in the Y direction
+freqBodyAccJerkMeanZ - The mean over frequency of the Jerk signal of the body acceleration in the Z direction
+freqBodyAccJerkStdX - The standard deviation over frequency of the Jerk signal of the body acceleration in the X direction
+freqBodyAccJerkStdY - The standard deviation over frequency of the Jerk signal of the body acceleration in the Y direction
+freqBodyAccJerkStdZ - The standard deviation over frequency of the Jerk signal of the body acceleration in the Z direction
+freqBodyGyroMeanX - The mean over frequency of the measure of the gyroscope measurement in the X direction
+freqBodyGyroMeanY - The mean over frequency of the measure of the gyroscope measurement in the Y direction
+freqBodyGyroMeanZ - The mean over frequency of the measure of the gyroscope measurement in the Z direction
+freqBodyGyroStdX - The standard deviation over frequency of the measure of the gyroscope measurement in the X direction
+freqBodyGyroStdY - The standard deviation over frequency of the measure of the gyroscope measurement in the Y direction
+freqBodyGyroStdZ - The standard deviation over frequency of the measure of the gyroscope measurement in the Z direction
+freqBodyAccMagMean - The mean of the magnitude of the body acceleration over frequency
+freqBodyAccMagStd - The standard deviation of the magnitude of the body acceleration over frequency 
+freqBodyBodyAccJerkMagMean - The mean over frequency of the magnitude of the jerk measurement of the body acceleration 
+freqBodyBodyAccJerkMagStd - The standard deviation over frequency of the magnitude of the jerk measurement of the body acceleration
+freqBodyBodyGyroMagMean - The mean over frequency of the magnitude of the gyroscope measurement
+freqBodyBodyGyroMagStd - The standard deviation over frequency of the magnitude of the gyroscope measurement
+freqBodyBodyGyroJerkMagMean - The mean over time of the magnitude of the measure of the gyroscope jerk
+freqBodyBodyGyroJerkMagStd - The standard deviation over frequency of the magnitude of the measure of the gyroscope jerk
